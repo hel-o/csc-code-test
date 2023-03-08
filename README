@@ -1,0 +1,5 @@
+- run the project:
+ENV_SECONDS=10 go run cmd/cmd_app.go
+
+- run the test:
+go test ./internal/apis

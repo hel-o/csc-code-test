@@ -1,0 +1,6 @@
+.idea/
+*.iml
+*.log
+*.json
+vendor/
+poc_*
